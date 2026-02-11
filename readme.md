@@ -1,4 +1,4 @@
-# Weekly Computer Science Competition @ DPSRPK – Edition 26
+# Weekly Computer Science Competition @DPSRPK – Edition 26
 
 The Weekly Computer Science Competition (WCSC) is not just another coding contest. 
 It places strong emphasis on understanding core computer science concepts and applying logical reasoning to solve challenging problems.
