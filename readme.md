@@ -32,7 +32,7 @@ This weekly edition at DPSRPK aims to encourage deeper thinking, strengthen fund
 + Simon Singh (1999). The Code Book: The Science of Secrecy from Ancient Egypt to Quantum Cryptography. Anchor. View
 + Charles Petzold (2000). Code: The Hidden Language of Computer Hardware and Software. Microsoft Press. View
 
-![cs_concepts]()
+![cs_concepts](https://github.com/OddExtension5/WCSC/blob/main/assets/cs_concept.jpg)
 
 ## Programming
 
@@ -43,7 +43,7 @@ Clean code structure, debugging proficiency, the ability to read and implement p
 ### Software
 A variety of tools are available to support programming, commonly known as Integrated Development Environments (IDEs). You can find suggested IDEs and information on how to start coding on our resources page:
 
-![Resources]()
+[Resources](https://github.com/OddExtension5/WCSC/blob/main/resources/software.md)
 
 ### Recommended Books
 Introductory books in Python, Java, and C++ that help students build foundational programming skills and develop good problem-solving habits:
