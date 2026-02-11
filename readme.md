@@ -50,3 +50,14 @@ Introductory books in Python, Java, and C++ that help students build foundationa
 + Cay S. Horstmann (2019). Big Java: Early Objects (Java). Wiley. View
 + Allen B. Downey (2012). Think Like a Programmer (C++). No Starch Press. View
 + Donald E. Knuth (1968–). The Art of Computer Programming (Agnostic). Addison-Wesley. View
+
+### Additionally
+Additionally, I have compiled a list of other competitions and challenges that share similarities with ICSC problems. These resources can be a valuable part of your preparation:
+
++ Raspberry Pi Foundation UK Bebras. Pathfinders/Elite problems and higher. [View](https://www.bebras.uk/)
++ American Computer Science League ACSL. Junior and Senor Devision. [View](https://www.acsl.org/get-started/study-materials)
++ Seminole State College IPC. [View](https://www.seminolestate.edu/computers/competition/samples/2021)
++ Eric Wastl Advent of Code. [View](https://adventofcode.com/2024)
++ Wolfram Research Wolfram Challenges. [View](https://challenges.wolframcloud.com/)
+
+
