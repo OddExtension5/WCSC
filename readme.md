@@ -43,7 +43,7 @@ Clean code structure, debugging proficiency, the ability to read and implement p
 ### Software
 A variety of tools are available to support programming, commonly known as Integrated Development Environments (IDEs). You can find suggested IDEs and information on how to start coding on our resources page:
 
-[Resources](https://github.com/OddExtension5/WCSC/blob/main/resources/software.md)
+> [Resources](https://github.com/OddExtension5/WCSC/blob/main/resources/software.md)
 
 ### Recommended Books
 Introductory books in Python, Java, and C++ that help students build foundational programming skills and develop good problem-solving habits:
