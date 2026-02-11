@@ -32,8 +32,6 @@ This weekly edition at DPSRPK aims to encourage deeper thinking, strengthen fund
 + Simon Singh (1999). The Code Book: The Science of Secrecy from Ancient Egypt to Quantum Cryptography. Anchor. View
 + Charles Petzold (2000). Code: The Hidden Language of Computer Hardware and Software. Microsoft Press. View
 
-![cs_concepts](https://github.com/OddExtension5/WCSC/blob/main/assets/cs_concept.jpg)
-
 ## Programming
 
 While a strong theoretical foundation is essential, practical programming skills are also important for success at WCSC. Participants must be able to implement algorithms accurately and efficiently.
