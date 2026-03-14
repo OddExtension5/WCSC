@@ -20,7 +20,7 @@ The competition covers a wide spectrum of topics, and participants are not expec
 Whenever required, problems will include sufficient background information.
 However, developing familiarity with foundational concepts across these domains will significantly enhance performance.
 
-This weekly edition at DPSRPK aims to encourage deeper thinking, strengthen fundamentals, and cultivate a true appreciation for computer science beyond just writing code.
+This weekly edition aims to encourage deeper thinking, strengthen fundamentals, and cultivate a true appreciation for computer science beyond just writing code.
 
 ## Recommended Books
 + Thomas H. Cormen et al. (2009). Introduction to Algorithms. MIT Press. View
